@@ -1,5 +1,5 @@
 # Unsupervised Learning Course
-Implementation of some clustering algorithms and work on community detection louvain algorithm
+Implementation of some clustering algorithms and work on community detection Louvain algorithm
 
 ## Description
 HW - Implementation of various clustering algorithms: 
@@ -11,6 +11,6 @@ HW - Implementation of various clustering algorithms:
 
 Seminar work on community detection
 
-report summarizing the work
+A report summarizing the work
 
-Seminar presention on community detection
+Seminar presentation on community detection
